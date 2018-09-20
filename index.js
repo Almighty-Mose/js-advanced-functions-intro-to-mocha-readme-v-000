@@ -15,7 +15,7 @@ function favoriteIceCream(flavor) {
 }
 
 function shouting(string) {
-  return toUpperCase;
+  return string.toUpperCase();
 }
 
 function roundDown(num) {
